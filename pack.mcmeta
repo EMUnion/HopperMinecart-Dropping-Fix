@@ -1,6 +1,6 @@
 {
-    "pack": {
-        "pack_format": 9,
-        "description": "Make the hopper minecart to drop itself instead of a hopper and a minecart -- by GamerNoTitle"
-    }
+  "pack": {
+    "pack_format": 9,
+    "description": "\u00A75\u00A7oTransplantation for the Dropping behavior of minecarts in 1.19+\n\n\u00A77Made by Mach_R2006"
+  }
 }

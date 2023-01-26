@@ -1,0 +1,1 @@
+execute as @e[type=item,nbt={Item:{id:"minecraft:minecart"}},tag=!scanned] run function 119_minecart:combination
